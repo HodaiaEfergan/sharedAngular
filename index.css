@@ -102,4 +102,35 @@ background-position: center center;
 background-color:#AF6B58;
 }
 
+/*תוספת של מירב*/
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+ }
+ .nav{
+    text-size-adjust: 100%;
+    font-size: 15px;
+    --use-sticky-header: 1;
+    --use-unsticky-header: 0;
+    --header-is-transparent: 1;
+    --window-height: 521px;
+    --announcement-bar-height: 43px;
+    --header-height: 67px;
+    --header-is-not-transparent: 0;
+    font-family: "DIN Neuzeit Grotesk",sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 0.8px;
+    color:red; 
+    box-sizing: border-box !important;
+    -webkit-font-smoothing: antialiased;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 30px;
+    
+ }
 
