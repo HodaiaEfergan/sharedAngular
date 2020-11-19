@@ -1,0 +1,31 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #212529;
+    color:blue;
+    text-align: center;
+ }
+body{
+    background-color:lightgray;
+}
+.cart3{
+    color: blue
+}
+.heart-fill{
+    color:blue
+}
+.person-circle{
+    color:blue
+}
+ul{
+    color: crimson;
+}
+.container{
+    text-align: center;
+
+}
+.h1{
+    text-align: center;
+}
